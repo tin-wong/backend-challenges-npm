@@ -1,6 +1,7 @@
 {
-    "author": "Tin Wong",
+	"author": "Tin Wong",
 	"description": "backend-challenges-npm",
+	"keywords": ["freecodecamp"],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
