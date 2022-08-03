@@ -3,6 +3,7 @@
 	"description": "backend-challenges-npm",
 	"keywords": ["freecodecamp"],
 	"license": "BSD 3-Clause",
+	"version": "1",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
